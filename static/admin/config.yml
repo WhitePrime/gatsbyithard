@@ -1,4 +1,4 @@
-backend: # Set up your backend
+# backend:  Set up your backend
   name: gitlab
 
 local_backend: true # Optional if you want to use the local proxy mode
